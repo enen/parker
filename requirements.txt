@@ -4,3 +4,5 @@ pytz
 django-extensions
 django-crispy-forms
 Pillow
+requests
+nameko <= 2.7.0
